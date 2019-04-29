@@ -1,0 +1,24 @@
+.footer_text1{
+	text-align:center;
+	font-size:40px; 
+	color:#121213;
+	font-family:"幼圆";
+	padding:15px 0;
+	letter-spacing: 5px;
+}
+
+.footer_text2{
+	text-align:center;
+	font-size:30px; 
+	color:#121213;
+	font-family:"幼圆";
+	padding:15px 0;
+	letter-spacing: 5px;
+}
+
+.footer_text3{
+	text-align:center;
+	font-size:15px; 
+	color:#121213;
+	font-family:"幼圆";
+}
